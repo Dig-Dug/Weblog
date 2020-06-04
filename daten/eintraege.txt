@@ -1,0 +1,20 @@
+a:11:{i:0;a:4:{s:5:"titel";s:24:"Blindheit per Definition";s:11:"erstellt_am";i:1212485239;s:5:"autor";s:7:"inewton";s:6:"inhalt";s:559:"Mit Blindheit per Definition geschlagen, dennoch nicht unsichtbar, 
+                              präsentiere ich mich als unbeachtetes und ungeliebtes Stiefkind 
+                              zeitgenössischer Literatur. Meine Bestimmung liegt - wie ich selbst -
+                              in engen Grenzen und ist rein platzhalterischer Natur.
+
+                              Kann ein missbrauchtes Wortgefüge eigentlich noch Schlimmeres erleiden, 
+                              als als Blindtext erdacht und vor der Öffentlichkeit versteckt zu werden?";}i:1;a:4:{s:5:"titel";s:10:"Langweilig";s:11:"erstellt_am";i:1212485239;s:5:"autor";s:7:"jsartre";s:6:"inhalt";s:224:"Dies ist ein Blindtext. Blindtexte sind zumeist weder informativ noch interessant, 
+                              sondern ausgesprochen langweilig.
+                              
+                              So auch dieser.";}i:2;a:4:{s:5:"titel";s:18:"Wenn ich gross bin";s:11:"erstellt_am";i:1212485239;s:5:"autor";s:6:"ghegel";s:6:"inhalt";s:262:"Ich bin nur ein kleiner Blindtext. Wenn ich gross bin, will ich Ulysses 
+                              von James Joyce werden. Aber jetzt lohnt es sich noch nicht, mich weiterzulesen. 
+                              Denn vorerst bin ich nur ein kleiner Blindtext.";}i:3;a:4:{s:5:"titel";s:11:"Inhaltsleer";s:6:"inhalt";s:376:"Streng dem definierten Wesen des Blindtextes folgend, fungiere ich als solcher und gebe mich unverbindlich inhaltsleer. 
+
+In bedrückender Enge in vorgefertigte Masken gepresst friste ich ein freudloses Dasein auf dem schmalen Grat zwischen Nichtbeachtung und Bedeutungslosigkeit und habe doch eine Bitte:
+
+Handeln Sie Sinn stiftend für meine Existenz und lesen Sie mich.";s:5:"autor";s:7:"inewton";s:11:"erstellt_am";i:1212504896;}i:4;a:4:{s:5:"titel";s:11:"Inhaltsleer";s:6:"inhalt";s:376:"Streng dem definierten Wesen des Blindtextes folgend, fungiere ich als solcher und gebe mich unverbindlich inhaltsleer. 
+
+In bedrückender Enge in vorgefertigte Masken gepresst friste ich ein freudloses Dasein auf dem schmalen Grat zwischen Nichtbeachtung und Bedeutungslosigkeit und habe doch eine Bitte:
+
+Handeln Sie Sinn stiftend für meine Existenz und lesen Sie mich.";s:5:"autor";s:7:"inewton";s:11:"erstellt_am";i:1212505069;}i:5;a:4:{s:5:"titel";s:5:"Apfel";s:6:"inhalt";s:11:"Lorem ipsum";s:5:"autor";s:7:"inewton";s:11:"erstellt_am";i:1385992976;}i:6;a:4:{s:5:"titel";s:4:"uoiu";s:6:"inhalt";s:4:"uoiu";s:5:"autor";s:7:"inewton";s:11:"erstellt_am";i:1526495267;}i:7;a:4:{s:5:"titel";s:4:"6976";s:6:"inhalt";s:4:"6976";s:5:"autor";s:7:"inewton";s:11:"erstellt_am";i:1526496151;}i:8;a:4:{s:5:"titel";s:8:"rtrztrzr";s:6:"inhalt";s:11:"ztrztrtzrzr";s:5:"autor";s:7:"inewton";s:11:"erstellt_am";i:1526541225;}i:9;a:4:{s:5:"titel";s:4:"zozu";s:6:"inhalt";s:6:"ouzouz";s:5:"autor";s:7:"inewton";s:11:"erstellt_am";i:1526543054;}i:10;a:4:{s:5:"titel";s:10:"is working";s:6:"inhalt";s:26:"fucking shit is working!!!";s:5:"autor";s:7:"inewton";s:11:"erstellt_am";i:1526750068;}}
